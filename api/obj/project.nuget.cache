@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8q45WcPsW0IQWZ511Pj0G3IJ5eQOPhmtht9yo6hq/JNVCQyhA3bxcjoKhRy8BpGjDol5JFRhm7fj+yswC9OACg==",
+  "success": true,
+  "projectFilePath": "C:\\SWE\\SVN\\REFRA_TOOLS\\QRGenerator\\api\\QRCodeGenerator.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imalo\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
+    "C:\\Users\\imalo\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\imalo\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\imalo\\.nuget\\packages\\qrcoder\\1.3.6\\qrcoder.1.3.6.nupkg.sha512",
+    "C:\\Users\\imalo\\.nuget\\packages\\system.drawing.common\\4.6.0\\system.drawing.common.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

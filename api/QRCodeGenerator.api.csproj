@@ -1,8 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <RootNamespace>Refra.QrCodeGenerator.api</RootNamespace>
+    <AssemblyName>QrCodeGeneratorApi</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
